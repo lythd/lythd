@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lythd
-- 👀 I’m interested in a variety of things, there is a lot of minecraft and chess though
-- ☕ Mainly code in java, but also some python, assembly, and any of the c family
-- 📫 Reach me on discord @lythdd
+- 👋 hi im @lythd :3
+- 👀 im interested in a variety of things its literally always changing
+- ☕ mainly code in java and c#, but i have some projects in python, assembly, c++, and rust
+- 📫 reach me on discord @lythdd
