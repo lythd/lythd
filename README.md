@@ -1,4 +1,4 @@
-- 👋 hi im @lythd :3
-- 👀 im interested in a variety of things its literally always changing
-- ☕ mainly code in java and c#, but i have some projects in python, assembly, c++, and rust
-- 📫 reach me on discord @lythdd
+- 👋 Hi I'm @lythd :3
+- 👀 I'm interested in a variety of things
+- ☕ I mainly code in Java and C#, but I have also worked in Python, Assembly, C++, and Rust
+- 📫 Reach me on discord @lythdd
