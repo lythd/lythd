@@ -1,4 +1,2 @@
-- 👋 Hi I'm @lythd :3
-- 👀 I'm interested in a variety of things
-- ☕ I mainly code in Java and C#, but I have also worked in Python, Assembly, C++, and Rust
-- 📫 Reach me on discord @lythdd
+I have migrated to gitea, and am now only using this for contributions to other projects
+My own repos are no longer available here, please find them at https://gitea.veryshiny.net/Nia
